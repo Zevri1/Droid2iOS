@@ -1,0 +1,12 @@
+{
+  "name": "Droid2iOS Research",
+  "short_name": "Droid2iOS",
+  "description": "Independent research into Darwin and XNU on Android hardware.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e9e7dc",
+  "theme_color": "#e9e7dc",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
