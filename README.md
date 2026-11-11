@@ -44,9 +44,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the experiment-report format and pull
 
 See [CHANGELOG.md](CHANGELOG.md) for notable project updates.
 
-## Contributing
+## FAQ
 
-Research references, corrections, logs, and reproducible findings are welcome. Please include the exact device/SoC, software and firmware versions, steps taken, logs, expected result, and observed result. Do not report a feature as working without evidence.
+See [docs/FAQ.md](docs/FAQ.md) for project scope, device support, contribution guidance, and common technical questions.
 
 ## License
 
