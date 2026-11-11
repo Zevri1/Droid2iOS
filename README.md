@@ -32,6 +32,17 @@ Booting a kernel is not equivalent to running iOS. A useful system would also re
 - `index.html` — static project website.
 - `docs/RESEARCH.md` — research scope and evidence standards.
 - `docs/COMPATIBILITY.md` — compatibility matrix template.
+- `docs/ARCHITECTURE.md` — conceptual system layers and compatibility boundaries.
+- `docs/GLOSSARY.md` — technical terminology.
+- `docs/REFERENCES.md` — primary technical references.
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the experiment-report format and pull-request expectations. Security concerns should follow [SECURITY.md](SECURITY.md).
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for notable project updates.
 
 ## Contributing
 
